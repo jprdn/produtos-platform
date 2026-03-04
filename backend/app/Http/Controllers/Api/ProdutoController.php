@@ -12,7 +12,7 @@ use Exception;
 
 /*
     Controlador para endpoints da API de produtos.
-    Serviços de integração.
+    Serviços de integração da API.
 */
 
 class ProdutoController extends Controller
