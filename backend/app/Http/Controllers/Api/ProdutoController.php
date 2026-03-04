@@ -12,12 +12,12 @@ use Exception;
 
 /*
     Controlador para endpoints da API de produtos.
-    Serviços de integração da API. Teste novo.
+    Serviços de integração da API. Teste.
 */
 
 class ProdutoController extends Controller
 {
-    /**
+    /**'
      * Display a listing of the resource.
      */
     public function index(): JsonResponse
