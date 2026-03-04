@@ -10,6 +10,10 @@ use Illuminate\Support\Facades\Cache;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Exception;
 
+/*
+    Controlador para endpoints da API de produtos.
+*/
+
 class ProdutoController extends Controller
 {
     /**
